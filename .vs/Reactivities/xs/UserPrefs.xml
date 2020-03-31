@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5D09F5BC-C5B3-4367-B434-4FD52CF197E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/appsettings.json">
+    <Files>
+      <File FileName="Persistence/DataContext.cs" Line="16" Column="1" />
+      <File FileName="Domain/Value.cs" Line="9" Column="1" />
+      <File FileName="API/Startup.cs" Line="35" Column="15" />
+      <File FileName="API/appsettings.json" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reactivities" expanded="True">
+            <Node name="API" expanded="True" />
+            <Node name="Application" expanded="True" />
+            <Node name="Domain" expanded="True">
+              <Node name="Value.cs" selected="True" />
+            </Node>
+            <Node name="Persistence" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
